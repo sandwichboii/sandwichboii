@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sandwichboii, "Chris" Yejun Kim
 - 👀 I’m interested in AI/Machine Learning
-- 🌱 I’m about to start attending a university
+- 🌱 I’m studying in SUNY Korea SBU
 - 📫 How to reach me: lidoset66@gmail.com
 
 <!---
